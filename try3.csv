@@ -1,10 +1,10 @@
 ﻿[
   PC1: {
     best: [
-      { values: 2, label: 'a' },
+      { values: 7, label: 'a' },
       { values: 5, label: 'b' },
       { values: 4, label: 'c' },
-      { values: 7, label: 'd' },
+      { values: 2, label: 'd' },
       { values: 3, label: 'e' }
     ],
     worst: [
