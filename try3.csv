@@ -1,5 +1,5 @@
 ﻿[
-  PC1: {
+  PC1: [
     best: [
       { values: 7, label: 'a' },
       { values: 5, label: 'b' },
@@ -14,8 +14,8 @@
       { values: -5, label: 'd' },
       { values: -4, label: 'e' }
     ]
-  },
-  PC2: {
+  ],
+  PC2: [
     best: [
       { values: 4, label: 'aa' },
       { values: 3, label: 'bb' },
@@ -30,8 +30,8 @@
       { values: -4, label: 'dd' },
       { values: -8, label: 'ee' }
     ]
-  },
-  PC3: {
+  ],
+  PC3: [
     best: [
       { values: 5, label: 'aaa' },
       { values: 3, label: 'bbb' },
@@ -46,8 +46,8 @@
       { values: -2, label: 'ddd' },
       { values: -3, label: 'eee' }
     ]
-  },
-  PC4: {
+  ],
+  PC4: [
     best: [
       { values: 4, label: 'aaaa' },
       { values: 3, label: 'bbbb' },
@@ -62,5 +62,5 @@
       { values: -1, label: 'dddd' },
       { values: -7, label: 'eeee' }
     ]
-  },
+  ],
 ]
